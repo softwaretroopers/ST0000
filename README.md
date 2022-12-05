@@ -2,7 +2,7 @@
 <p align="center"><em>Software Troopers Official Website..<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p><br>
 
-- 🖧 Project available at - **https://softwaretroopersofficial.web.app**
+- 🖧 Project available at - **https://software-troopers.web.app/**
 - 🌐 Author's Website - **https://kushen.tech**
 - 📫 How to reach the author - **kushendesilva@gmail.com**
 
